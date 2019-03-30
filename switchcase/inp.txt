@@ -1,0 +1,14 @@
+switch(a){
+    case 3 : {
+        a = a + b;
+        b = c + d;
+    }
+    case 4 : {
+        a = a + b;
+        b = c + d;
+    }
+    default : {
+        a = a + b;
+        b = c + d;
+    }
+}

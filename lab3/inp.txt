@@ -1,0 +1,4 @@
+int     a=10;
+	int k=    9;
+	int b=20;
+	printf("    %d",a%b);

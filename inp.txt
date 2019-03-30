@@ -1,0 +1,11 @@
+while(a<b)
+{
+	if(c<d || e<f)
+	{
+		x = a[i]+b[i][j];
+	}
+	else
+	{
+		x = a[ b[i][j] ][ c[k] ];
+	}
+}
